@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: I just foud this easter egg!!
+
 <!--
 **acorpuz/acorpuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
